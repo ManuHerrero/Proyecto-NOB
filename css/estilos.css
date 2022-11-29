@@ -189,3 +189,7 @@ nav ul a:hover{
 .light-box:target{
     transform: scale(1);
 }
+
+.imgFooter{
+    margin-bottom: 2px;
+}
